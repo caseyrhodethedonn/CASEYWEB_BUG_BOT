@@ -14,13 +14,13 @@ JANGAN LUPA SUPPORT
 
 global.prefa = ['','!','.',',','🐤','🗿'] 
 // Setting Contact
-global.namaown = "Dark-Love-MD X Crash Bug Bot"
-global.namabot = "Dark-Love-MD X Crash Bug Bot"
+global.namaown = "VIPPER BUG"
+global.namabot = "VIPPER BUG"
 global.versisc = "10.0"
-global.owner = ["234812244124"]
-global.tele = "https://t.me/darklovemd"
+global.owner = ["254112192119"]
+global.tele = "https://t.me/caseyrhodes001"
 global.url = "https://www.youtube.com"
-global.namastore = "Dark-Love-MD V2 X Crash Bug Bot"
+global.namastore = "VIPPER BU V2 X Crash Bug Bot"
 
 // Global Simbol
 global.simbol = "ᯤ"
@@ -39,7 +39,7 @@ global.mess = {
     OnlyOwner: `\`[ # ]\` _This feature can be used by Awesome owner only_!`,
     OnlyGrup: `\`[ # ]\` _This feature can be used in groups only_ !`,
     private: `\`[ # ]\` _This feature/command is only for private chats only_ !`,
-    wait: `\`[ # ]\` Dark-Love-MD V2 X Crash Bug Bot in process...`,
+    wait: `\`[ # ]\` VIPPER BUG V2 X Crash Bug Bot in process...`,
     notregist: `\`[ # ]\` _You are not yet registered_`,
     premium: `\`[ # ]\` _This feature can be used by premium users only_`,
     endLimit: `\`[ # ]\` endless limit`,

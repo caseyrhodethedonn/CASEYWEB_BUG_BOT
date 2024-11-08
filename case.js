@@ -132,9 +132,9 @@ const resize = async (image, width, height) => {
 // 𝘙𝘌𝘗𝘓𝘠
 async function loading () {
 var genalpa = [
-"Dark-Love-MD V2",
+"VIPPER BUG V2",
 "Bug Bot",
-"Dark-Love-MD-V2-X-Crash-Bug-Bot"
+"VIPPER-BUG-V2-X-Crash-Bug-Bot"
 ]
 let { key } = await Zynxzoo.sendMessage(m.chat, {text: 'Zynxzoo'})
 
@@ -840,25 +840,25 @@ function msToDate(ms) {
 // Sayying time
 const timee = moment().tz('Asia/Jakarta').format('HH:mm:ss')
 if(timee < "23:59:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 if(timee < "19:00:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 if(timee < "18:00:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 if(timee < "15:00:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 if(timee < "10:00:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 if(timee < "05:00:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 if(timee < "03:00:00"){
-var waktuucapan = 'Welcome To Dark-Love-MD X Crash Bug Bot'
+var waktuucapan = 'Welcome To VIPPER BUG X Crash Bug Bot'
 }
 
 
@@ -897,7 +897,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \`Dark-Love-MD X Crash Bug Bot\` ] ──┓
+let anu = `┏─╴[ \`VIPPER BUG V2 X Crash Bug Bot\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
@@ -907,7 +907,7 @@ let anu = `┏─╴[ \`Dark-Love-MD X Crash Bug Bot\` ] ──┓
 │ 𝐁𝐨𝐭 User : ${global.namabot}
 │ 𝐕𝐞𝐫𝐬𝐢on : ${global.versisc}
 ┗──────────────────┛
-  _ To Dark-Love-MD V2 X Crash Bug Bot_. type .owner menu or .menu to check the bot command`
+  _ To VIPPER BUG V2 X Crash Bug Bot_. type .owner menu or .menu to check the bot command`
 const msg = generateWAMessageFromContent(m.chat, {
 viewOnceMessage: {
 message: {
@@ -926,7 +926,7 @@ nativeFlowMessage: {
 buttons: [{
 name: "cta_url",
 buttonParamsJson: `{
-display_text: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 Dark-Love-MD X Crash Bug Bot',
+display_text: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 VIPPER BUG V2 X Crash Bug Bot',
 url: "${global.url}",
 merchant_url: "${global.url}"
 }`
@@ -950,7 +950,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \`Dark-Love-MD X Crash Bug Bot\` ] ──┓
+let anu = `┏─╴[ \`VIPPER BUG V2 X Crash Bug Bot\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
@@ -985,7 +985,7 @@ nativeFlowMessage: {
 buttons: [{
 name: "cta_url",
 buttonParamsJson: `{
-display_text: '*Dark-Love-MD* 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
+display_text: '*CASEYRHODES MD* 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
 url: "${global.tele}",
 merchant_url: "${global.tele}"
 }`
@@ -1009,7 +1009,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \`_Welcome To Dark-Love-MD X Crash Bug Bot_\` ] ──┓
+let anu = `┏─╴[ \`_Welcome To VIPPER BUG V2 X Crash Bug Bot_\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
@@ -1041,7 +1041,7 @@ nativeFlowMessage: {
 buttons: [{
 name: "cta_url",
 buttonParamsJson: `{
-display_text: '*Dark-Love-MD* 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
+display_text: '*CASEYRHODES TECH* 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
 url: "${global.tele}",
 merchant_url: "${global.tele}"
 }`
@@ -1065,7 +1065,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \`Dark-Love-MD X Crash Bug Bot\` ] ──┓
+let anu = `┏─╴[ \`VIPPER BUG V2 X Crash Bug Bot\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
@@ -1123,7 +1123,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \`Dark-Love-MD X Crash Bug Bot\` ] ──┓
+let anu = `┏─╴[ \`VIPPER BUG V2 X Crash Bug Bot\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
@@ -1159,7 +1159,7 @@ nativeFlowMessage: {
 buttons: [{
 name: "cta_url",
 buttonParamsJson: `{
-display_text: '_Dark-Love-MD V2_ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
+display_text: '_CASEYRHODES TECH_ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
 url: "${global.tele}",
 merchant_url: "${global.tele}"
 }`
@@ -1183,7 +1183,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \` Dark-Love-MD X Crash Bug Bot\` ] ──┓
+let anu = `┏─╴[ \` VIPPER BUG V2 X Crash Bug Bot\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
@@ -1218,7 +1218,7 @@ nativeFlowMessage: {
 buttons: [{
 name: "cta_url",
 buttonParamsJson: `{
-display_text: ' Dark-Love-MD 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
+display_text: ' CASEYRHODES TECH 𝘾𝙝𝙖𝙣𝙣𝙚𝙡',
 url: "${global.tele}",
 merchant_url: "${global.tele}"
 }`
@@ -1242,7 +1242,7 @@ image: Darklovemd
 }, {
 upload: Zynxzoo.waUploadToServer
 })
-let anu = `┏─╴[ \`Dark-Love-MD X Crash Bug Bot\` ] ──┓
+let anu = `┏─╴[ \`VIPPER BUG V2 X Crash Bug Bot\` ] ──┓
 │ HELLO: *${pushname}*
 │ TIME:  *${timee}*
 │ DATE:  *${hariini}*
